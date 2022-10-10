@@ -1,14 +1,24 @@
-<html>
-<head>
-  <title>Our Title</title>
-  <link rel="stylesheet"
-    type="text/css"
-    href="css/mysite.css">
-</head>
-<body>
+body {
+ background-image: url("https://wallpapercave.com/wp/wp4753459.jpg");
+ background-repeat: no-repeat;
+ background-color: #cccccc;
+ background-position: center;
+ background-size: cover;
+}
 
-  #me {
-    width: 100px;
-  }
+#aboutme {
+  position: absolute;
+  right: 150px;
+  width: 300px;
+  border: 15px solid #008080;
+  padding: 50px;
+  margin: 20px;
+}
 
-</body>
+#labs {
+  right: 150px;
+  width: 300px;
+  border: 15px solid #008080;
+  padding: 50px;
+  margin: 20px;
+}
