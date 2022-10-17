@@ -1,0 +1,54 @@
+#splat1 {
+  position: absolute;
+  Left: 100px;
+  bottom: 300;
+  width: 300px;
+  border: 15px solid #008080;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(00,80,80,0.4);
+}
+
+#splat2 {
+  position: absolute;
+  right: 500px;
+  bottom: 300px;
+  width: 300px;
+  border: 15px solid #FFC0CB;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(255, 192, 203,0.4);
+}
+
+#splat3 {
+  position: absolute;
+  left: 100px;
+  bottom: 100px;
+  width: 300px;
+  border: 15px solid #FFC0CB;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(255, 192, 203,0.4);
+}
+
+#splat4 {
+  position: absolute;
+  right: 500px;
+  bottom: 8px;
+  width: 300px;
+  border: 15px solid #008080;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(00,80,80,0.4);
+}
+
+#splat5 {
+  position: absolute;
+  right: 5px;
+  bottom: 150px;
+  width: 300px;
+  border: 15px solid #008080;
+  padding: 50px;
+  margin: 20px;
+  background-color:rgb(00,80,80,0.4);
+}
